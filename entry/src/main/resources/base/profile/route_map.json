@@ -1,0 +1,170 @@
+{
+  "routerMap": [
+    {
+      "name": "Layout",
+      "pageSourceFile": "src/main/ets/pages/Layout.ets",
+      "buildFunction": "LayoutBuilder"
+    },
+    {
+      "name": "LayoutSec",
+      "pageSourceFile": "src/main/ets/pages/LayoutSec.ets",
+      "buildFunction": "LayoutSecBuilder"
+    },
+    {
+      "name": "HomePage",
+      "pageSourceFile": "src/main/ets/pages/HomePage.ets",
+      "buildFunction": "HomePageBuilder"
+    },
+    {
+      "name": "AddRecordPage",
+      "pageSourceFile": "src/main/ets/pages/AddRecordPage.ets",
+      "buildFunction": "AddRecordPageBuilder"
+    },
+    {
+      "name": "RecordCalendarPage",
+      "pageSourceFile": "src/main/ets/pages/RecordCalendarPage.ets",
+      "buildFunction": "RecordCalendarPageBuilder"
+    },
+    {
+      "name": "DailyQueryPage",
+      "pageSourceFile": "src/main/ets/pages/DailyQueryPage.ets",
+      "buildFunction": "DailyQueryPageBuilder"
+    },
+    {
+      "name": "EditRecordPage",
+      "pageSourceFile": "src/main/ets/pages/EditRecordPage.ets",
+      "buildFunction": "EditRecordPageBuilder"
+    },
+    {
+      "name": "StatsPage",
+      "pageSourceFile": "src/main/ets/pages/StatsPage.ets",
+      "buildFunction": "StatsPageBuilder"
+    },
+    {
+      "name": "AdjustPage",
+      "pageSourceFile": "src/main/ets/pages/AdjustPage.ets",
+      "buildFunction": "AdjustPageBuilder"
+    },
+    {
+      "name": "BreathingExercisePage",
+      "pageSourceFile": "src/main/ets/pages/BreathingExercisePage.ets",
+      "buildFunction": "BreathingExercisePageBuilder"
+    },{
+      "name": "RandomSayingPage",
+      "pageSourceFile": "src/main/ets/pages/RandomSayingPage.ets",
+      "buildFunction": "RandomSayingPageBuilder"
+    },{
+      "name": "PsySuggestionPage",
+      "pageSourceFile": "src/main/ets/pages/PsySuggestionPage.ets",
+      "buildFunction": "PsySuggestionPageBuilder"
+    },{
+      "name": "BeginningPage",
+      "pageSourceFile": "src/main/ets/pages/BeginningPage.ets",
+      "buildFunction": "BeginningPageBuilder"
+    },{
+      "name": "SoulQuestionPage",
+      "pageSourceFile": "src/main/ets/pages/SoulQuestionPage.ets",
+      "buildFunction": "SoulQuestionPageBuilder"
+    },{
+      "name": "RandomActionPage",
+      "pageSourceFile": "src/main/ets/pages/RandomActionPage.ets",
+      "buildFunction": "RandomActionPageBuilder"
+    },{
+      "name": "DestroyGarbagePage",
+      "pageSourceFile": "src/main/ets/pages/DestroyGarbagePage.ets",
+      "buildFunction": "DestroyGarbagePageBuilder"
+    },{
+      "name": "RandomJokePage",
+      "pageSourceFile": "src/main/ets/pages/RandomJokePage.ets",
+      "buildFunction": "RandomJokePageBuilder"
+    },
+    {
+      "name": "RandomStoryPage",
+      "pageSourceFile": "src/main/ets/pages/RandomStoryPage.ets",
+      "buildFunction": "RandomStoryPageBuilder"
+    },
+    {
+      "name": "RandomQuotePage",
+      "pageSourceFile": "src/main/ets/pages/RandomQuotePage.ets",
+      "buildFunction": "RandomQuotePageBuilder"
+    },
+    {
+      "name": "RandomFortunePage",
+      "pageSourceFile": "src/main/ets/pages/RandomFortunePage.ets",
+      "buildFunction": "RandomFortunePageBuilder"
+    },{
+      "name": "FlowMomentPage",
+      "pageSourceFile": "src/main/ets/pages/FlowMomentPage.ets",
+      "buildFunction": "FlowMomentPageBuilder"
+    },{
+      "name": "FocusCounterPage",
+      "pageSourceFile": "src/main/ets/pages/FocusCounterPage.ets",
+      "buildFunction": "FocusCounterPageBuilder"
+    },{
+      "name": "StressReliefPage",
+      "pageSourceFile": "src/main/ets/pages/StressReliefPage.ets",
+      "buildFunction": "StressReliefPageBuilder"
+    },{
+      "name": "ChoiceAssistantPage",
+      "pageSourceFile": "src/main/ets/pages/ChoiceAssistantPage.ets",
+      "buildFunction": "ChoiceAssistantPageBuilder"
+    },{
+      "name": "PsyTestPage",
+      "pageSourceFile": "src/main/ets/pages/PsyTestPage.ets",
+      "buildFunction": "PsyTestPageBuilder"
+    },
+    {
+      "name": "PsyKnowledgePage",
+      "pageSourceFile": "src/main/ets/pages/PsyKnowledgePage.ets",
+      "buildFunction": "PsyKnowledgePageBuilder"
+    },{
+      "name": "MBTIPage",
+      "pageSourceFile": "src/main/ets/pages/MBTIPage.ets",
+      "buildFunction": "MBTIPageBuilder"
+    },{
+      "name": "BigFivePage",
+      "pageSourceFile": "src/main/ets/pages/BigFivePage.ets",
+      "buildFunction": "BigFivePageBuilder"
+    },{
+      "name": "HollandPage",
+      "pageSourceFile": "src/main/ets/pages/HollandPage.ets",
+      "buildFunction": "HollandPageBuilder"
+    },{
+      "name": "SASPage",
+      "pageSourceFile": "src/main/ets/pages/SASPage.ets",
+      "buildFunction": "SASPageBuilder"
+    },{
+      "name": "EPQPage",
+      "pageSourceFile": "src/main/ets/pages/EPQPage.ets",
+      "buildFunction": "EPQPageBuilder"
+    },{
+      "name": "SESPage",
+      "pageSourceFile": "src/main/ets/pages/SESPage.ets",
+      "buildFunction": "SESPageBuilder"
+    },{
+      "name": "PhilosophyPage",
+      "pageSourceFile": "src/main/ets/pages/PhilosophyPage.ets",
+      "buildFunction": "PhilosophyPageBuilder"
+    },{
+      "name": "EmotionClassPage",
+      "pageSourceFile": "src/main/ets/pages/EmotionClassPage.ets",
+      "buildFunction": "EmotionClassPageBuilder"
+    },{
+      "name": "MailPage",
+      "pageSourceFile": "src/main/ets/pages/MailPage.ets",
+      "buildFunction": "MailPageBuilder"
+    },{
+      "name": "SendMailPage",
+      "pageSourceFile": "src/main/ets/pages/SendMailPage.ets",
+      "buildFunction": "SendMailPageBuilder"
+    },{
+      "name": "TeachPage",
+      "pageSourceFile": "src/main/ets/pages/TeachPage.ets",
+      "buildFunction": "TeachPageBuilder"
+    },{
+      "name": "MoodGardenPage",
+      "pageSourceFile": "src/main/ets/pages/MoodGardenPage.ets",
+      "buildFunction": "MoodGardenPageBuilder"
+    }
+  ]
+}

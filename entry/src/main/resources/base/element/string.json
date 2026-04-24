@@ -1,0 +1,32 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "心晨"
+    },
+    {
+      "name": "EntryFormAbility_desc",
+      "value": "form_description"
+    },
+    {
+      "name": "EntryFormAbility_label",
+      "value": "form_label"
+    },
+    {
+      "name": "PsySuggestionWidget_desc",
+      "value": "卡片会随机显示自定义的心理暗示，并在每早6点更新"
+    },
+    {
+      "name": "PsySuggestionWidget_display_name",
+      "value": "心理暗示卡片"
+    }
+  ]
+}

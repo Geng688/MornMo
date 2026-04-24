@@ -1,0 +1,56 @@
+{
+  "app": {
+    "signingConfigs": [
+      {
+        "name": "default",
+        "type": "HarmonyOS",
+        "material": {
+          "storeFile": "D:/DevEcoStudioProjects/MoodNote/.p12",
+          "storePassword": "00000019B5C24A8D83285F3C38D8A2DABF61F580576D067F8E1CA0699E80C5AF3C48C25893CC8C9199",
+          "keyAlias": "moodnote_key",
+          "keyPassword": "00000019878D2FB885749BC11489EDA746D9F0873BAF9647BD5389A3B3AC4DE5A65EB56D33EACA07EB",
+          "signAlg": "SHA256withECDSA",
+          "profile": "D:/DevEcoStudioProjects/MoodNote/心晨Release.p7b",
+          "certpath": "D:/DevEcoStudioProjects/MoodNote/心晨.cer"
+        }
+      }
+    ],
+    "products": [
+      {
+        "name": "default",
+        "signingConfig": "default",
+        "targetSdkVersion": "5.0.5(17)",
+        "compatibleSdkVersion": "5.0.5(17)",
+        "runtimeOS": "HarmonyOS",
+        "buildOption": {
+          "strictMode": {
+            "caseSensitiveCheck": true,
+            "useNormalizedOHMUrl": true
+          }
+        }
+      }
+    ],
+    "buildModeSet": [
+      {
+        "name": "debug",
+      },
+      {
+        "name": "release"
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "entry",
+      "srcPath": "./entry",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    }
+  ]
+}
